@@ -1,10 +1,19 @@
 # coinpark
 
+采用同时进行买卖操作
+例如：用户拥有usdt200，用户进行ETH_USDT来进行对冲，需要将ETH和usdt各持仓一半，也就是买入100usdt的ETH
+然后建议将mount设置<=100usdt
+
 Key：coinpark交易平台上你自己申请的API的key值
+
 secret：API的secret值
+
 mount USDT单次交易数量
+
 symbol 交易对，仅提供与usdt的交易对,例如：symbol=ETH_USDT
+
 order_sleep为订单交易等待时间
+
 trading_Strategy 交易策略
 
 交易策略为两种
@@ -24,7 +33,7 @@ USDT地址(非ERC20)：1PSybg27pQ7y9FSo1uKjNmWRrCzgew7tHe
 
 开源倡导者
 
-
+特此鸣谢大佬https://github.com/nogo6260/coinpark
 
 
 
