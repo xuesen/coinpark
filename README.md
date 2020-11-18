@@ -21,17 +21,11 @@ trading_Strategy 交易策略
 等于1代表差价策略买一卖一(低买高卖)
 建议使用平价
 
-代码有问题可以加微信说，互相交朋友：jianbingguozi1995
-
-代码提供源码，可以自行检查是否有后门，如果老哥们用的好的话给点饭钱就行，在这里给各位老铁抱拳了
-
 USDT地址(非ERC20)：1PSybg27pQ7y9FSo1uKjNmWRrCzgew7tHe
 
 后续会慢慢做量化交易，希望能从小白的道路上走向财务自由
 
-作者：煎饼果子+小矿工
-
-开源倡导者
+作者：煎饼果子
 
 特此鸣谢大佬https://github.com/nogo6260/coinpark
 
